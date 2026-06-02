@@ -1,8 +1,39 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* ==========================================================================
+       1. NEUTRAL COLORS (Màu trung tính - Chiếm 60% - 70% diện tích trang)
+       Mục đích: Làm nền và hiển thị nội dung văn bản, giúp giao diện sạch sẽ, dễ đọc.
+       ========================================================================== */
+  --color-bg-main: #ffffff; /* Trắng tinh khôi (Nền chính toàn trang) */
+  --color-bg-soft: #f4f7f6; /* Xám xỉu xanh nhẹ (Nền các section phụ phân đoạn) */
+  --color-bg-sand: #fbf7f0; /* Kem nhạt ấm (Nền khối form tìm kiếm, khối trải nghiệm) */
+  --color-text-main: #1f2937; /* Đen xám đậm (Tiêu đề chính, text body đọc) */
+  --color-text-muted: #4b5563; /* Xám vừa (Phụ đề, mô tả ngắn) */
+  --color-text-white: #ffffff; /* Trắng (Chữ trên các block nền tối) */
+
+  /* ==========================================================================
+       2. PRIMARY COLORS (Màu thương hiệu - Chiếm 20% - 30% diện tích)
+       Mục đích: Lấy từ logo để định vị thương hiệu, làm màu nền các khối lớn, tiêu đề lớn.
+       ========================================================================== */
+  --color-brand-dark: #0f2d2a; /* Xanh lục bảo đậm (Màu chính của Logo, Footer, khối lớn) */
+  --color-brand-medium: #1d4d4f; /* Xanh lục sâu (Nút bấm phụ, các tiêu đề section) */
+
+  /* ==========================================================================
+       3. SECONDARY & ACCENT COLORS (Màu phụ & Phá cách - Chiếm dưới 10%)
+       Mục đích: Tạo bất ngờ, thu hút thị giác ngay lập tức vào nút kêu gọi hành động (CTA).
+       ========================================================================== */
+  --color-accent-orange: #d97706; /* Cam đất/Hổ phách (Nút BOOK NOW, SUBSCRIBE, CTA chính) */
+  --color-accent-yellow: #f59e0b; /* Vàng nắng ấm (Icon tìm kiếm, ngôi sao đánh giá) */
+  --color-accent-teal: #14b8a6; /* Xanh tươi/Teal (Icon máy bay, nét vẽ trang trí phá cách) */
+
+  /* ==========================================================================
+       4. UTILITY COLORS (Màu hệ thống / Thông báo)
+       Mục đích: Báo trạng thái Form, kiểm tra logic (Validate) khi người dùng nhập liệu.
+       ========================================================================== */
+  --color-success: #10b981; /* Xanh lá (Thông báo đặt tour thành công) */
+  --color-warning: #f59e0b; /* Vàng/Cam (Cảnh báo số lượng chỗ ngồi còn ít) */
+  --color-error: #ef4444; /* Đỏ (Báo lỗi khi nhập sai email, thiếu ngày tháng) */
 }
 
 @theme inline {
