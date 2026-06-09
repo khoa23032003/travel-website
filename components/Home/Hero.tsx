@@ -48,7 +48,7 @@ const Hero = () => {
             alt={currentData.location}
             src={currentData.bgImage}
             fill
-            sizes="160px"
+            sizes="100vh"
             priority
             className="object-cover"
           />
@@ -56,7 +56,7 @@ const Hero = () => {
       </AnimatePresence>
 
       {/* Lớp phủ Gradient làm tối nền */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-black/70 lg:bg-black/50" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/120 via-black/120 to-black/150 lg:bg-black/20" />
 
       <div className="relative z-10 flex flex-col justify-end lg:grid lg:grid-cols-12 h-full w-full px-6 sm:px-12 md:px-16 lg:px-12 xl:px-20 pb-10 pt-20 lg:py-0 lg:items-center gap-8 lg:gap-0">
         {/* KHU VỰC 1: Chữ và văn bản */}
@@ -140,7 +140,7 @@ const Hero = () => {
                       src={dest.cardImage}
                       alt={dest.title}
                       fill
-                      sizes="160px"
+                      sizes="(max-width: 768px) 240px, 288px"
                       className="object-cover pointer-events-none"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/20 to-transparent pointer-events-none" />

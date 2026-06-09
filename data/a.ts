@@ -1,0 +1,1645 @@
+export const locations = [
+  {
+    id: "ha-noi",
+    slug: "ha-noi",
+    name: "Hà Nội",
+    kind: "province",
+    wikipediaTitle: "Hà_Nội",
+    description:
+      'Hà Nội là thủ đô của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Đây là thành phố trực thuộc trung ương lớn thứ hai về quy mô dân số, được xếp loại đô thị đặc biệt, có vị trí là trung tâm văn hóa, chính trị, một trong hai trung tâm kinh tế, giáo dục quan trọng tại Việt Nam. Hà Nội nằm về phía Tây Bắc của trung tâm vùng đồng bằng châu thổ sông Hồng, với địa hình bao gồm vùng đồng bằng trung tâm và vùng đồi núi ở phía Bắc và phía Tây thành phố. Với diện tích 3.359,82 km², và dân số xấp xỉ 8,8 triệu người, Hà Nội là thành phố trực thuộc trung ương có diện tích lớn thứ năm tại Việt Nam, đồng thời cũng là thành phố đông dân thứ hai và có mật độ dân số cao nhất trong 34 đơn vị hành chính cấp tỉnh của Việt Nam nhưng phân bố dân số không đồng đều. Hà Nội có 126 đơn vị hành chính cấp xã, gồm 51 phường và 75 xã. Hà Nội đã sớm trở thành trung tâm chính trị, kinh tế và văn hóa ngay từ những buổi đầu của lịch sử Việt Nam. Với vai trò thủ đô, Hà Nội là nơi tập trung nhiều địa điểm văn hóa giải trí, công trình thể thao quan trọng của đất nước, đồng thời cũng là địa điểm được lựa chọn để tổ chức nhiều sự kiện chính trị và thể thao quốc tế. Đây là nơi tập trung nhiều làng nghề truyền thống, đồng thời cũng là 1 trong 3 vùng tập trung nhiều hội lễ của miền Bắc Việt Nam. Thành phố có chỉ số phát triển con người ở mức cao, dẫn đầu trong số các đơn vị hành chính của Việt Nam. Nền ẩm thực Hà Nội với nhiều nét riêng biệt cũng là một trong những yếu tố thu hút khách du lịch tới thành phố. Thành phố được UNESCO trao tặng danh hiệu "Thành phố vì hòa bình" vào ngày 16 tháng 7 năm 1999. Khu Hoàng thành Thăng Long cũng được tổ chức UNESCO công nhận là di sản văn hóa thế giới.',
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hanoi_Skyline_-_NKS.jpg/330px-Hanoi_Skyline_-_NKS.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i",
+    seoTitle: "Hà Nội | Vietnam Explorer",
+    seoDescription:
+      "Hà Nội là thủ đô của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Đây là thành phố trực thuộc trung ương lớn thứ hai về quy mô dân số, được xếp loại đô thị đặc b...",
+    keywords: ["Hà Nội", "Hà Nội du lịch", "Hà Nội Việt Nam", "Hà Nội tỉnh"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ho-chi-minh",
+    slug: "ho-chi-minh",
+    name: "Hồ Chí Minh",
+    kind: "province",
+    wikipediaTitle: "Thành_phố_Hồ_Chí_Minh",
+    description:
+      "Thành phố Hồ Chí Minh, còn được gọi bằng tên lịch sử là Sài Gòn, là thành phố lớn nhất Việt Nam về quy mô dân số và là trung tâm kinh tế, giải trí, một trong hai trung tâm văn hóa và giáo dục quan trọng nhất tại Việt Nam. Thành phố Hồ Chí Minh là thành phố trực thuộc trung ương thuộc loại đô thị đặc biệt. Về phân chia hành chính, năm 2025, thành phố này có 113 phường, 54 xã và 1 đặc khu, tổng diện tích là 6.772,59 km2. Thành phố có dân số vào năm 2024 là hơn 14 triệu người, mật độ dân số trung bình 2.067 người/km². Theo dữ liệu Sáp nhập tỉnh, thành Việt Nam 2025, TP.HCM có diện tích: 6.773 km², xếp thứ 22; dân số: 14.002.598 người, đông dân nhất Việt Nam; GRDP 2024: 2.715.782.233 triệu VNĐ, xếp thứ nhất; thu ngân sách 2024: 681.935.856 triệu VNĐ, xếp thứ nhất; thu nhập bình quân: 85,53 triệu VNĐ/năm, xếp thứ nhì toàn quốc.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg/330px-Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    seoTitle: "Hồ Chí Minh | Vietnam Explorer",
+    seoDescription:
+      "Thành phố Hồ Chí Minh, còn được gọi bằng tên lịch sử là Sài Gòn, là thành phố lớn nhất Việt Nam về quy mô dân số và là trung tâm kinh tế, giải trí, một trong...",
+    keywords: [
+      "Hồ Chí Minh",
+      "Hồ Chí Minh du lịch",
+      "Hồ Chí Minh Việt Nam",
+      "Hồ Chí Minh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "a-nang",
+    slug: "a-nang",
+    name: "Đà Nẵng",
+    kind: "province",
+    wikipediaTitle: "Đà_Nẵng",
+    description:
+      "Đà Nẵng là một trong bảy thành phố trực thuộc trung ương của Việt Nam, nằm tại khu vực Duyên hải Nam Trung Bộ và Tây Nguyên. Đây là thành phố có diện tích lớn thứ hai của Việt Nam, đóng vai trò là trung tâm chính trị, kinh tế - xã hội lớn của miền Trung và là hạt nhân quan trọng trong Vùng kinh tế trọng điểm miền Trung. Thành phố Đà Nẵng hiện là đô thị loại I, là thành phố trung tâm cấp vùng và cấp quốc gia.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Han_River_Bridge_in_Vietnam_Night_View.jpg/330px-Han_River_Bridge_in_Vietnam_Night_View.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%C3%A0_N%E1%BA%B5ng",
+    seoTitle: "Đà Nẵng | Vietnam Explorer",
+    seoDescription:
+      "Đà Nẵng là một trong bảy thành phố trực thuộc trung ương của Việt Nam, nằm tại khu vực Duyên hải Nam Trung Bộ và Tây Nguyên. Đây là thành phố có diện tích lớ...",
+    keywords: [
+      "Đà Nẵng",
+      "Đà Nẵng du lịch",
+      "Đà Nẵng Việt Nam",
+      "Đà Nẵng tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hai-phong",
+    slug: "hai-phong",
+    name: "Hải Phòng",
+    kind: "province",
+    wikipediaTitle: "Hải_Phòng",
+    description:
+      "Hải Phòng là một trong bảy thành phố trực thuộc trung ương của Việt Nam. Đây là thành phố lớn thứ ba Việt Nam về quy mô kinh tế, đồng thời là một thành phố cảng, trung tâm công nghiệp, cảng biển, kinh tế, văn hóa, y tế, giáo dục, khoa học, thương mại và công nghệ thuộc Vùng duyên hải Bắc Bộ của Việt Nam. Hải Phòng hiện là đô thị loại I, là thành phố trung tâm cấp vùng và cấp quốc gia. Trong quá khứ, Hải Phòng cũng là nơi có điện đầu tiên ở Việt Nam và Đông Dương.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Haiphong2020.jpg/330px-Haiphong2020.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Ph%C3%B2ng",
+    seoTitle: "Hải Phòng | Vietnam Explorer",
+    seoDescription:
+      "Hải Phòng là một trong bảy thành phố trực thuộc trung ương của Việt Nam. Đây là thành phố lớn thứ ba Việt Nam về quy mô kinh tế, đồng thời là một thành phố c...",
+    keywords: [
+      "Hải Phòng",
+      "Hải Phòng du lịch",
+      "Hải Phòng Việt Nam",
+      "Hải Phòng tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "can-tho",
+    slug: "can-tho",
+    name: "Cần Thơ",
+    kind: "province",
+    wikipediaTitle: "Cần_Thơ",
+    description:
+      "Cần Thơ là một trong bảy thành phố trực thuộc trung ương của Việt Nam, thuộc vùng Đồng bằng sông Cửu Long.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Can_Tho_Bridge.jpg/330px-Can_Tho_Bridge.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/C%E1%BA%A7n_Th%C6%A1",
+    seoTitle: "Cần Thơ | Vietnam Explorer",
+    seoDescription:
+      "Cần Thơ là một trong bảy thành phố trực thuộc trung ương của Việt Nam, thuộc vùng Đồng bằng sông Cửu Long.",
+    keywords: [
+      "Cần Thơ",
+      "Cần Thơ du lịch",
+      "Cần Thơ Việt Nam",
+      "Cần Thơ tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "an-giang",
+    slug: "an-giang",
+    name: "An Giang",
+    kind: "province",
+    wikipediaTitle: "An_Giang",
+    description:
+      "An Giang là một tỉnh thuộc vùng đồng bằng sông Cửu Long, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9_N%C3%BAi_Sam.jpg/330px-Mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9_N%C3%BAi_Sam.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/An_Giang",
+    seoTitle: "An Giang | Vietnam Explorer",
+    seoDescription:
+      "An Giang là một tỉnh thuộc vùng đồng bằng sông Cửu Long, Việt Nam.",
+    keywords: [
+      "An Giang",
+      "An Giang du lịch",
+      "An Giang Việt Nam",
+      "An Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ba-ria-vung-tau",
+    slug: "ba-ria-vung-tau",
+    name: "Bà Rịa - Vũng Tàu",
+    kind: "province",
+    wikipediaTitle: "Bà_Rịa_-_Vũng_Tàu",
+    description:
+      "Bà Rịa – Vũng Tàu là một tỉnh ven biển cũ thuộc vùng Đông Nam Bộ, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/M%E1%BB%99t_ph%E1%BA%A7n_V%C5%A9ng_T%C3%A0u_2.JPG/330px-M%E1%BB%99t_ph%E1%BA%A7n_V%C5%A9ng_T%C3%A0u_2.JPG",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%C3%A0_R%E1%BB%8Ba_%E2%80%93_V%C5%A9ng_T%C3%A0u",
+    seoTitle: "Bà Rịa - Vũng Tàu | Vietnam Explorer",
+    seoDescription:
+      "Bà Rịa – Vũng Tàu là một tỉnh ven biển cũ thuộc vùng Đông Nam Bộ, Việt Nam.",
+    keywords: [
+      "Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu du lịch",
+      "Bà Rịa - Vũng Tàu Việt Nam",
+      "Bà Rịa - Vũng Tàu tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "bac-giang",
+    slug: "bac-giang",
+    name: "Bắc Giang",
+    kind: "province",
+    wikipediaTitle: "Bắc_Giang",
+    description: "",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_Giang_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bắc Giang | Vietnam Explorer",
+    seoDescription:
+      "Bắc Giang là một tỉnh thành nổi bật của Việt Nam, phù hợp để khám phá, tìm hiểu và xây dựng nội dung du lịch SEO.",
+    keywords: [
+      "Bắc Giang",
+      "Bắc Giang du lịch",
+      "Bắc Giang Việt Nam",
+      "Bắc Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "bac-kan",
+    slug: "bac-kan",
+    name: "Bắc Kạn",
+    kind: "province",
+    wikipediaTitle: "Bắc_Kạn",
+    description:
+      "Bắc Kạn có thể là:Phường Bắc Kạn, tỉnh Thái Nguyên.Địa danh cũTỉnh Bắc Kạn, còn được viết là Bắc Cạn, ở Trung du Bắc Bộ Việt Nam\nThành phố Bắc Kạn, tỉnh lỵ của tỉnh Bắc Kạn\nThị trấn Bắc Cạn, huyện Bạch Thông, tỉnh Bắc Thái.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_K%E1%BA%A1n_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bắc Kạn | Vietnam Explorer",
+    seoDescription:
+      "Bắc Kạn có thể là:Phường Bắc Kạn, tỉnh Thái Nguyên.Địa danh cũTỉnh Bắc Kạn, còn được viết là Bắc Cạn, ở Trung du Bắc Bộ Việt Nam\nThành phố Bắc Kạn, tỉnh lỵ c...",
+    keywords: [
+      "Bắc Kạn",
+      "Bắc Kạn du lịch",
+      "Bắc Kạn Việt Nam",
+      "Bắc Kạn tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "bac-lieu",
+    slug: "bac-lieu",
+    name: "Bạc Liêu",
+    kind: "province",
+    wikipediaTitle: "Bạc_Liêu",
+    description:
+      "Bạc Liêu có thể là:Phường Bạc Liêu, tỉnh Cà Mau.Địa danh cũTỉnh Bạc Liêu; nay là một phần của tỉnh Cà Mau\nThành phố Bạc Liêu, tỉnh lỵ của tỉnh Bạc Liêu.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%E1%BA%A1c_Li%C3%AAu_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bạc Liêu | Vietnam Explorer",
+    seoDescription:
+      "Bạc Liêu có thể là:Phường Bạc Liêu, tỉnh Cà Mau.Địa danh cũTỉnh Bạc Liêu; nay là một phần của tỉnh Cà Mau\nThành phố Bạc Liêu, tỉnh lỵ của tỉnh Bạc Liêu.",
+    keywords: [
+      "Bạc Liêu",
+      "Bạc Liêu du lịch",
+      "Bạc Liêu Việt Nam",
+      "Bạc Liêu tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "bac-ninh",
+    slug: "bac-ninh",
+    name: "Bắc Ninh",
+    kind: "province",
+    wikipediaTitle: "Bắc_Ninh",
+    description:
+      "Bắc Ninh là một tỉnh thuộc vùng Đồng bằng sông Hồng, Vùng thủ đô Hà Nội, Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tương ứng với xứ Kinh Bắc xưa, là cái nôi của dân ca Quan họ và đồng hiện diện các di sản ca trù, hát then, tín ngưỡng thờ Mẫu được ghi danh là di sản văn hóa phi vật thể đại diện của nhân loại. Bắc Ninh cũng là một trong ba nơi sở hữu Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc đã UNESCO được công nhận di sản thế giới.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Trung_t%C3%A2m_v%C4%83n_h%C3%B3a_Kinh_B%E1%BA%AFc.jpg/330px-Trung_t%C3%A2m_v%C4%83n_h%C3%B3a_Kinh_B%E1%BA%AFc.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_Ninh",
+    seoTitle: "Bắc Ninh | Vietnam Explorer",
+    seoDescription:
+      "Bắc Ninh là một tỉnh thuộc vùng Đồng bằng sông Hồng, Vùng thủ đô Hà Nội, Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tương ứng với xứ Kinh Bắc xưa, là cái nôi c...",
+    keywords: [
+      "Bắc Ninh",
+      "Bắc Ninh du lịch",
+      "Bắc Ninh Việt Nam",
+      "Bắc Ninh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ben-tre",
+    slug: "ben-tre",
+    name: "Bến Tre",
+    kind: "province",
+    wikipediaTitle: "Bến_Tre",
+    description:
+      "Bến Tre là một vùng đất nước non hữu tình nhiều sông ngòi tỉnh cũ là Bến Tre nay sau sát nhập thành Vĩnh Lòng Bến Tre có nhũng đặc sản nổi tiếng như dừa và người dân bến tre luôn thân thiện và dễ mến",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Tre_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bến Tre | Vietnam Explorer",
+    seoDescription:
+      "Bến Tre là một vùng đất nước non hữu tình nhiều sông ngòi tỉnh cũ là Bến Tre nay sau sát nhập thành Vĩnh Lòng Bến Tre có nhũng đặc sản nổi tiếng như dừa và n...",
+    keywords: [
+      "Bến Tre",
+      "Bến Tre du lịch",
+      "Bến Tre Việt Nam",
+      "Bến Tre tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-inh",
+    slug: "binh-inh",
+    name: "Bình Định",
+    kind: "province",
+    wikipediaTitle: "Bình_Định",
+    description: "Bình Định có thể là một trong số các địa danh sau:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bình Định | Vietnam Explorer",
+    seoDescription: "Bình Định có thể là một trong số các địa danh sau:",
+    keywords: [
+      "Bình Định",
+      "Bình Định du lịch",
+      "Bình Định Việt Nam",
+      "Bình Định tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-duong",
+    slug: "binh-duong",
+    name: "Bình Dương",
+    kind: "province",
+    wikipediaTitle: "Bình_Dương",
+    description:
+      "Bình Dương là một địa danh tại miền Nam Việt Nam. Trong lịch sử, địa danh này được sử dụng cho nhiều đơn vị hành chính khác nhau. Hiện tại, địa danh này được dùng chính thức để chỉ đến phường Bình Dương, một đơn vị hành chính cấp xã thuộc Thành phố Hồ Chí Minh, Việt Nam.",
+    image: "",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/B%C3%ACnh_D%C6%B0%C6%A1ng",
+    seoTitle: "Bình Dương | Vietnam Explorer",
+    seoDescription:
+      "Bình Dương là một địa danh tại miền Nam Việt Nam. Trong lịch sử, địa danh này được sử dụng cho nhiều đơn vị hành chính khác nhau. Hiện tại, địa danh này được...",
+    keywords: [
+      "Bình Dương",
+      "Bình Dương du lịch",
+      "Bình Dương Việt Nam",
+      "Bình Dương tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-phuoc",
+    slug: "binh-phuoc",
+    name: "Bình Phước",
+    kind: "province",
+    wikipediaTitle: "Bình_Phước",
+    description:
+      "Bình Phước có thể là một trong số các địa danh Việt Nam sau đây:Phường Bình Phước, thành phố Đồng Nai\nXã Bình Phước, tỉnh Vĩnh Long.Địa danh cũTỉnh Bình Phước thuộc vùng Đông Nam Bộ\nXã Bình Phước, huyện Bình Sơn, tỉnh Quảng Ngãi; nay là một phần của xã Vạn Tường thuộc tỉnh\nXã Bình Phước, huyện Mang Thít, tỉnh Vĩnh Long; nay là một phần của xã Bình Phước mới thuộc tỉnh\nXã Bình Phước thuộc huyện Phước Long, tỉnh Bình Phước ; nay là một phần của xã Bình Tân và phường Phước Bình, thành phố Đồng Nai.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bình Phước | Vietnam Explorer",
+    seoDescription:
+      "Bình Phước có thể là một trong số các địa danh Việt Nam sau đây:Phường Bình Phước, thành phố Đồng Nai\nXã Bình Phước, tỉnh Vĩnh Long.Địa danh cũTỉnh Bình Phướ...",
+    keywords: [
+      "Bình Phước",
+      "Bình Phước du lịch",
+      "Bình Phước Việt Nam",
+      "Bình Phước tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-thuan",
+    slug: "binh-thuan",
+    name: "Bình Thuận",
+    kind: "province",
+    wikipediaTitle: "Bình_Thuận",
+    description: "Bình Thuận có thể là tên gọi của:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/B%C3%ACnh_Thu%E1%BA%ADn_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Bình Thuận | Vietnam Explorer",
+    seoDescription: "Bình Thuận có thể là tên gọi của:",
+    keywords: [
+      "Bình Thuận",
+      "Bình Thuận du lịch",
+      "Bình Thuận Việt Nam",
+      "Bình Thuận tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ca-mau",
+    slug: "ca-mau",
+    name: "Cà Mau",
+    kind: "province",
+    wikipediaTitle: "Cà_Mau",
+    description:
+      "Cà Mau là một tỉnh ven biển ở cực nam của Việt Nam, nằm trong khu vực Đồng bằng sông Cửu Long. Toàn bộ địa phận tỉnh Cà Mau nằm trên Bán đảo Cà Mau.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Muicamau.jpg/330px-Muicamau.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/C%C3%A0_Mau",
+    seoTitle: "Cà Mau | Vietnam Explorer",
+    seoDescription:
+      "Cà Mau là một tỉnh ven biển ở cực nam của Việt Nam, nằm trong khu vực Đồng bằng sông Cửu Long. Toàn bộ địa phận tỉnh Cà Mau nằm trên Bán đảo Cà Mau.",
+    keywords: ["Cà Mau", "Cà Mau du lịch", "Cà Mau Việt Nam", "Cà Mau tỉnh"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "cao-bang",
+    slug: "cao-bang",
+    name: "Cao Bằng",
+    kind: "province",
+    wikipediaTitle: "Cao_Bằng",
+    description:
+      "Cao Bằng là một tỉnh thuộc vùng Đông Bắc Bộ, miền Bắc, Việt Nam. Theo dữ liệu Sáp nhập tỉnh, thành Việt Nam 2025, Cao Bằng có diện tích: 6.700 km², xếp thứ 23; dân số: 573.119 người, xếp thứ 33; GRDP 2024: 25.203.769 triệu VNĐ, xếp thứ 34; thu ngân sách 2024: 2.476.011 triệu VNĐ, xếp thứ 33; thu nhập bình quân: 30,70 triệu VNĐ/năm, xếp thứ 32.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ban_Gioc_-_Detian_Falls2.jpg/330px-Ban_Gioc_-_Detian_Falls2.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Cao_B%E1%BA%B1ng",
+    seoTitle: "Cao Bằng | Vietnam Explorer",
+    seoDescription:
+      "Cao Bằng là một tỉnh thuộc vùng Đông Bắc Bộ, miền Bắc, Việt Nam. Theo dữ liệu Sáp nhập tỉnh, thành Việt Nam 2025, Cao Bằng có diện tích: 6.700 km², xếp thứ 2...",
+    keywords: [
+      "Cao Bằng",
+      "Cao Bằng du lịch",
+      "Cao Bằng Việt Nam",
+      "Cao Bằng tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ak-lak",
+    slug: "ak-lak",
+    name: "Đắk Lắk",
+    kind: "province",
+    wikipediaTitle: "Đắk_Lắk",
+    description:
+      "Đắk Lắk là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam, có diện tích tự nhiên lớn thứ ba Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tr%C3%AAn_cao_nguy%C3%AAn_%C4%90%E1%BA%AFk_L%E1%BA%AFk.JPG/330px-Tr%C3%AAn_cao_nguy%C3%AAn_%C4%90%E1%BA%AFk_L%E1%BA%AFk.JPG",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%AFk_L%E1%BA%AFk",
+    seoTitle: "Đắk Lắk | Vietnam Explorer",
+    seoDescription:
+      "Đắk Lắk là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam, có diện tích tự nhiên lớn thứ ba Việt Nam.",
+    keywords: [
+      "Đắk Lắk",
+      "Đắk Lắk du lịch",
+      "Đắk Lắk Việt Nam",
+      "Đắk Lắk tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ak-nong",
+    slug: "ak-nong",
+    name: "Đắk Nông",
+    kind: "province",
+    wikipediaTitle: "Đắk_Nông",
+    description: "Đắk Nông là một tỉnh cũ thuộc vùng Tây Nguyên, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DraySap400.jpg/330px-DraySap400.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%AFk_N%C3%B4ng",
+    seoTitle: "Đắk Nông | Vietnam Explorer",
+    seoDescription: "Đắk Nông là một tỉnh cũ thuộc vùng Tây Nguyên, Việt Nam.",
+    keywords: [
+      "Đắk Nông",
+      "Đắk Nông du lịch",
+      "Đắk Nông Việt Nam",
+      "Đắk Nông tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ien-bien",
+    slug: "ien-bien",
+    name: "Điện Biên",
+    kind: "province",
+    wikipediaTitle: "Điện_Biên",
+    description:
+      "Điện Biên là tỉnh miền núi thuộc vùng Tây Bắc Bộ của Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/M%C6%B0%E1%BB%9Dng_Thanh_Valley.jpg/330px-M%C6%B0%E1%BB%9Dng_Thanh_Valley.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_Bi%C3%AAn",
+    seoTitle: "Điện Biên | Vietnam Explorer",
+    seoDescription:
+      "Điện Biên là tỉnh miền núi thuộc vùng Tây Bắc Bộ của Việt Nam.",
+    keywords: [
+      "Điện Biên",
+      "Điện Biên du lịch",
+      "Điện Biên Việt Nam",
+      "Điện Biên tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ong-nai",
+    slug: "ong-nai",
+    name: "Đồng Nai",
+    kind: "province",
+    wikipediaTitle: "Đồng_Nai",
+    description:
+      "Đồng Nai là một trong bảy thành phố trực thuộc trung ương thuộc vùng Đông Nam Bộ, Việt Nam và hiện là thành phố có diện tích lớn nhất Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn.jpg/330px-Nh%C3%A0_th%E1%BB%9D_ch%C3%ADnh_V%C4%83n_mi%E1%BA%BFu_Tr%E1%BA%A5n_Bi%C3%AAn.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Nai",
+    seoTitle: "Đồng Nai | Vietnam Explorer",
+    seoDescription:
+      "Đồng Nai là một trong bảy thành phố trực thuộc trung ương thuộc vùng Đông Nam Bộ, Việt Nam và hiện là thành phố có diện tích lớn nhất Việt Nam.",
+    keywords: [
+      "Đồng Nai",
+      "Đồng Nai du lịch",
+      "Đồng Nai Việt Nam",
+      "Đồng Nai tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ong-thap",
+    slug: "ong-thap",
+    name: "Đồng Tháp",
+    kind: "province",
+    wikipediaTitle: "Đồng_Tháp",
+    description:
+      "Đồng Tháp là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/C%E1%BA%A7u_Cao_L%C3%A3nh.jpg/330px-C%E1%BA%A7u_Cao_L%C3%A3nh.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Th%C3%A1p",
+    seoTitle: "Đồng Tháp | Vietnam Explorer",
+    seoDescription:
+      "Đồng Tháp là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam.",
+    keywords: [
+      "Đồng Tháp",
+      "Đồng Tháp du lịch",
+      "Đồng Tháp Việt Nam",
+      "Đồng Tháp tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "gia-lai",
+    slug: "gia-lai",
+    name: "Gia Lai",
+    kind: "province",
+    wikipediaTitle: "Gia_Lai",
+    description:
+      "Gia Lai là một tỉnh nằm ở khu vực Duyên hải Nam Trung Bộ và Tây Nguyên, miền Trung Việt Nam và là tỉnh có diện tích lớn thứ hai Việt Nam. Trung tâm hành chính của tỉnh là phường Quy Nhơn.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chi%E1%BB%81u_cao_nguy%C3%AAn_-_Late_afternoon_in_the_Central_High_Plateaux_-_panoramio.jpg/330px-Chi%E1%BB%81u_cao_nguy%C3%AAn_-_Late_afternoon_in_the_Central_High_Plateaux_-_panoramio.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Gia_Lai",
+    seoTitle: "Gia Lai | Vietnam Explorer",
+    seoDescription:
+      "Gia Lai là một tỉnh nằm ở khu vực Duyên hải Nam Trung Bộ và Tây Nguyên, miền Trung Việt Nam và là tỉnh có diện tích lớn thứ hai Việt Nam. Trung tâm hành chín...",
+    keywords: [
+      "Gia Lai",
+      "Gia Lai du lịch",
+      "Gia Lai Việt Nam",
+      "Gia Lai tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ha-giang",
+    slug: "ha-giang",
+    name: "Hà Giang",
+    kind: "province",
+    wikipediaTitle: "Hà_Giang",
+    description:
+      "Hà Giang có thể là:Phường Hà Giang 1, tỉnh Tuyên Quang\nPhường Hà Giang 2, tỉnh Tuyên QuangĐịa danh cũTỉnh Hà Giang là một tỉnh cũ thuộc vùng Đông Bắc Bộ; nay là một phần của tỉnh Tuyên Quang\nThành phố Hà Giang, tỉnh lỵ tỉnh Hà Giang\nXã Hà Giang ; nay là một phần của xã Bắc Đông Quan, tỉnh Hưng Yên\nXã Hà Giang ; nay là một phần của xã Hà Long.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/H%C3%A0_Giang_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Hà Giang | Vietnam Explorer",
+    seoDescription:
+      "Hà Giang có thể là:Phường Hà Giang 1, tỉnh Tuyên Quang\nPhường Hà Giang 2, tỉnh Tuyên QuangĐịa danh cũTỉnh Hà Giang là một tỉnh cũ thuộc vùng Đông Bắc Bộ; nay...",
+    keywords: [
+      "Hà Giang",
+      "Hà Giang du lịch",
+      "Hà Giang Việt Nam",
+      "Hà Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ha-nam",
+    slug: "ha-nam",
+    name: "Hà Nam",
+    kind: "province",
+    wikipediaTitle: "Hà_Nam",
+    description: "Hà Nam là có thể là một trong số các địa danh sau:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/H%C3%A0_Nam_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Hà Nam | Vietnam Explorer",
+    seoDescription: "Hà Nam là có thể là một trong số các địa danh sau:",
+    keywords: ["Hà Nam", "Hà Nam du lịch", "Hà Nam Việt Nam", "Hà Nam tỉnh"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ha-tinh",
+    slug: "ha-tinh",
+    name: "Hà Tĩnh",
+    kind: "province",
+    wikipediaTitle: "Hà_Tĩnh",
+    description:
+      "Hà Tĩnh là một tỉnh ven biển phía bắc thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Toancanhthixa.jpg/330px-Toancanhthixa.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%C3%A0_T%C4%A9nh",
+    seoTitle: "Hà Tĩnh | Vietnam Explorer",
+    seoDescription:
+      "Hà Tĩnh là một tỉnh ven biển phía bắc thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam.",
+    keywords: [
+      "Hà Tĩnh",
+      "Hà Tĩnh du lịch",
+      "Hà Tĩnh Việt Nam",
+      "Hà Tĩnh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hai-duong",
+    slug: "hai-duong",
+    name: "Hải Dương",
+    kind: "province",
+    wikipediaTitle: "Hải_Dương",
+    description: "Hải Dương có thể chỉ:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_D%C6%B0%C6%A1ng_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Hải Dương | Vietnam Explorer",
+    seoDescription: "Hải Dương có thể chỉ:",
+    keywords: [
+      "Hải Dương",
+      "Hải Dương du lịch",
+      "Hải Dương Việt Nam",
+      "Hải Dương tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hau-giang",
+    slug: "hau-giang",
+    name: "Hậu Giang",
+    kind: "province",
+    wikipediaTitle: "Hậu_Giang",
+    description:
+      "Hậu Giang là một tỉnh cũ thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Được thành lập đầu tiên vào năm 1976, đến năm 1991, Quốc hội Việt Nam ban hành Nghị quyết chia tỉnh Hậu Giang thành tỉnh Cần Thơ và tỉnh Sóc Trăng. Ngày 26 tháng 11 năm 2003, tỉnh Cần Thơ lại được chia thành thành phố Cần Thơ trực thuộc Trung ương và tỉnh Hậu Giang. Ngày 1 tháng 7 năm 2025, tỉnh được giải thể cùng với tỉnh Sóc Trăng để sáp nhập vào thành phố Cần Thơ.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Th%C3%A1p_%C4%90%E1%BB%93ng_H%E1%BB%93_%E1%BB%9F_V%E1%BB%8B_Thanh.jpg/330px-Th%C3%A1p_%C4%90%E1%BB%93ng_H%E1%BB%93_%E1%BB%9F_V%E1%BB%8B_Thanh.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%E1%BA%ADu_Giang",
+    seoTitle: "Hậu Giang | Vietnam Explorer",
+    seoDescription:
+      "Hậu Giang là một tỉnh cũ thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Được thành lập đầu tiên vào năm 1976, đến năm 1991, Quốc hội Việt Nam ban hành Nghị qu...",
+    keywords: [
+      "Hậu Giang",
+      "Hậu Giang du lịch",
+      "Hậu Giang Việt Nam",
+      "Hậu Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hoa-binh",
+    slug: "hoa-binh",
+    name: "Hòa Bình",
+    kind: "province",
+    wikipediaTitle: "Hòa_Bình",
+    description: "Hòa Bình có thể là:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/H%C3%B2a_B%C3%ACnh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Hòa Bình | Vietnam Explorer",
+    seoDescription: "Hòa Bình có thể là:",
+    keywords: [
+      "Hòa Bình",
+      "Hòa Bình du lịch",
+      "Hòa Bình Việt Nam",
+      "Hòa Bình tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hung-yen",
+    slug: "hung-yen",
+    name: "Hưng Yên",
+    kind: "province",
+    wikipediaTitle: "Hưng_Yên",
+    description:
+      "Hưng Yên là một tỉnh thuộc vùng Đồng bằng sông Hồng, nằm ở miền Bắc, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/V%C4%83n_mi%E1%BA%BFu_X%C3%ADch_%C4%90%E1%BA%B1ng_02.JPG/330px-V%C4%83n_mi%E1%BA%BFu_X%C3%ADch_%C4%90%E1%BA%B1ng_02.JPG",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%C6%B0ng_Y%C3%AAn",
+    seoTitle: "Hưng Yên | Vietnam Explorer",
+    seoDescription:
+      "Hưng Yên là một tỉnh thuộc vùng Đồng bằng sông Hồng, nằm ở miền Bắc, Việt Nam.",
+    keywords: [
+      "Hưng Yên",
+      "Hưng Yên du lịch",
+      "Hưng Yên Việt Nam",
+      "Hưng Yên tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "khanh-hoa",
+    slug: "khanh-hoa",
+    name: "Khánh Hòa",
+    kind: "province",
+    wikipediaTitle: "Khánh_Hòa",
+    description:
+      "Khánh Hòa là một tỉnh ven biển thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam. Hiện tỉnh này đã có kế hoạch lên Thành phố trực thuộc trung ương.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nha_Trang_%2C_Vietnam_-_panoramio_%2835%29.jpg/330px-Nha_Trang_%2C_Vietnam_-_panoramio_%2835%29.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Kh%C3%A1nh_H%C3%B2a",
+    seoTitle: "Khánh Hòa | Vietnam Explorer",
+    seoDescription:
+      "Khánh Hòa là một tỉnh ven biển thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam. Hiện tỉnh này đã có kế hoạch lên Thành phố trực thuộc trung ương.",
+    keywords: [
+      "Khánh Hòa",
+      "Khánh Hòa du lịch",
+      "Khánh Hòa Việt Nam",
+      "Khánh Hòa tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "kien-giang",
+    slug: "kien-giang",
+    name: "Kiên Giang",
+    kind: "province",
+    wikipediaTitle: "Kiên_Giang",
+    description:
+      "Kiên Giang là một tỉnh ven biển cũ thuộc vùng Đồng bằng sông Cửu Long, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bai-sao-phu-quoc-tuonglamphotos.jpg/330px-Bai-sao-phu-quoc-tuonglamphotos.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ki%C3%AAn_Giang",
+    seoTitle: "Kiên Giang | Vietnam Explorer",
+    seoDescription:
+      "Kiên Giang là một tỉnh ven biển cũ thuộc vùng Đồng bằng sông Cửu Long, Việt Nam.",
+    keywords: [
+      "Kiên Giang",
+      "Kiên Giang du lịch",
+      "Kiên Giang Việt Nam",
+      "Kiên Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "kon-tum",
+    slug: "kon-tum",
+    name: "Kon Tum",
+    kind: "province",
+    wikipediaTitle: "Kon_Tum",
+    description:
+      "Kon Tum, trong tiếng Ba Na có nghĩa là Làng Hồ, có thể được dùng để chỉ đến các địa danh sau:Phường Kon Tum, tỉnh Quảng Ngãi.Địa danh cũTỉnh Kon Tum thuộc Tây Nguyên, Việt Nam\nThành phố Kon Tum, tỉnh lỵ tỉnh Kon Tum.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Kon_Tum_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Kon Tum | Vietnam Explorer",
+    seoDescription:
+      "Kon Tum, trong tiếng Ba Na có nghĩa là Làng Hồ, có thể được dùng để chỉ đến các địa danh sau:Phường Kon Tum, tỉnh Quảng Ngãi.Địa danh cũTỉnh Kon Tum thuộc Tâ...",
+    keywords: [
+      "Kon Tum",
+      "Kon Tum du lịch",
+      "Kon Tum Việt Nam",
+      "Kon Tum tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "lai-chau",
+    slug: "lai-chau",
+    name: "Lai Châu",
+    kind: "province",
+    wikipediaTitle: "Lai_Châu",
+    description: "Lai Châu là một tỉnh thuộc vùng Tây Bắc Bộ, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Laichautown.jpg/330px-Laichautown.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Lai_Ch%C3%A2u",
+    seoTitle: "Lai Châu | Vietnam Explorer",
+    seoDescription: "Lai Châu là một tỉnh thuộc vùng Tây Bắc Bộ, Việt Nam.",
+    keywords: [
+      "Lai Châu",
+      "Lai Châu du lịch",
+      "Lai Châu Việt Nam",
+      "Lai Châu tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "lam-ong",
+    slug: "lam-ong",
+    name: "Lâm Đồng",
+    kind: "province",
+    wikipediaTitle: "Lâm_Đồng",
+    description:
+      "Lâm Đồng là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam và là tỉnh có diện tích lớn nhất Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Da_Lat%2C_view_to_Xuan_Huong_lake_2.jpg/330px-Da_Lat%2C_view_to_Xuan_Huong_lake_2.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/L%C3%A2m_%C4%90%E1%BB%93ng",
+    seoTitle: "Lâm Đồng | Vietnam Explorer",
+    seoDescription:
+      "Lâm Đồng là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, Việt Nam và là tỉnh có diện tích lớn nhất Việt Nam.",
+    keywords: [
+      "Lâm Đồng",
+      "Lâm Đồng du lịch",
+      "Lâm Đồng Việt Nam",
+      "Lâm Đồng tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "lang-son",
+    slug: "lang-son",
+    name: "Lạng Sơn",
+    kind: "province",
+    wikipediaTitle: "Lạng_Sơn",
+    description:
+      "Lạng Sơn là một tỉnh miền núi biên giới nằm ở vùng Đông Bắc Bộ, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%E1%BA%ABu_S%C6%A1n.jpg/330px-M%E1%BA%ABu_S%C6%A1n.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/L%E1%BA%A1ng_S%C6%A1n",
+    seoTitle: "Lạng Sơn | Vietnam Explorer",
+    seoDescription:
+      "Lạng Sơn là một tỉnh miền núi biên giới nằm ở vùng Đông Bắc Bộ, Việt Nam.",
+    keywords: [
+      "Lạng Sơn",
+      "Lạng Sơn du lịch",
+      "Lạng Sơn Việt Nam",
+      "Lạng Sơn tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "lao-cai",
+    slug: "lao-cai",
+    name: "Lào Cai",
+    kind: "province",
+    wikipediaTitle: "Lào_Cai",
+    description:
+      "Lào Cai là một tỉnh miền núi biên giới thuộc vùng Tây Bắc Bộ, miền Bắc Việt Nam, có chung đường biên giới với tỉnh Vân Nam, Trung Quốc. Lào Cai có vị trí quan trọng trong vùng Tây Bắc, là cửa ngõ kết nối Việt Nam với khu vực và quốc tế, đồng thời là trung tâm kinh tế, văn hóa và giao thương sầm uất. Trung tâm hành chính của tỉnh là phường Yên Bái, cách trung tâm Hà Nội 155 km.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fansipan_summit_2_in_sunrise.jpg/330px-Fansipan_summit_2_in_sunrise.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/L%C3%A0o_Cai",
+    seoTitle: "Lào Cai | Vietnam Explorer",
+    seoDescription:
+      "Lào Cai là một tỉnh miền núi biên giới thuộc vùng Tây Bắc Bộ, miền Bắc Việt Nam, có chung đường biên giới với tỉnh Vân Nam, Trung Quốc. Lào Cai có vị trí qua...",
+    keywords: [
+      "Lào Cai",
+      "Lào Cai du lịch",
+      "Lào Cai Việt Nam",
+      "Lào Cai tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "long-an",
+    slug: "long-an",
+    name: "Long An",
+    kind: "province",
+    wikipediaTitle: "Long_An",
+    description: "Long An có thể là:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Long_An_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Long An | Vietnam Explorer",
+    seoDescription: "Long An có thể là:",
+    keywords: [
+      "Long An",
+      "Long An du lịch",
+      "Long An Việt Nam",
+      "Long An tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "nam-inh",
+    slug: "nam-inh",
+    name: "Nam Định",
+    kind: "province",
+    wikipediaTitle: "Nam_Định",
+    description:
+      "Nam Định có thể chỉ đến các nội dung sau:Phường Nam Định, tỉnh Ninh Bình\nSông Nam Định, một chi lưu của sông Hồng, nối sông Hồng và sông ĐáyĐịa danh cũTỉnh Nam Định tại miền Bắc Việt Nam giai đoạn 1832-1965 và 1996-2025.\nThành phố Nam Định từng là tỉnh lỵ của tỉnh Nam Định, Nam Hà và Hà Nam Ninh",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Nam_%C4%90%E1%BB%8Bnh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Nam Định | Vietnam Explorer",
+    seoDescription:
+      "Nam Định có thể chỉ đến các nội dung sau:Phường Nam Định, tỉnh Ninh Bình\nSông Nam Định, một chi lưu của sông Hồng, nối sông Hồng và sông ĐáyĐịa danh cũTỉnh N...",
+    keywords: [
+      "Nam Định",
+      "Nam Định du lịch",
+      "Nam Định Việt Nam",
+      "Nam Định tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "nghe-an",
+    slug: "nghe-an",
+    name: "Nghệ An",
+    kind: "province",
+    wikipediaTitle: "Nghệ_An",
+    description:
+      "Nghệ An là một tỉnh ven biển gần cực bắc thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Quangtruonghochiminh.jpg/330px-Quangtruonghochiminh.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_An",
+    seoTitle: "Nghệ An | Vietnam Explorer",
+    seoDescription:
+      "Nghệ An là một tỉnh ven biển gần cực bắc thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam.",
+    keywords: [
+      "Nghệ An",
+      "Nghệ An du lịch",
+      "Nghệ An Việt Nam",
+      "Nghệ An tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ninh-binh",
+    slug: "ninh-binh",
+    name: "Ninh Bình",
+    kind: "province",
+    wikipediaTitle: "Ninh_Bình",
+    description:
+      "Ninh Bình là một tỉnh thuộc vùng Đồng bằng sông Hồng, miền Bắc Việt Nam, nằm ở cửa ngõ phía nam của thủ đô Hà Nội. Đây là mảnh đất giàu tiềm năng phát triển với lịch sử văn hóa lâu đời, hạ tầng giao thông kết nối liên vùng thuận lợi.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Temple_comm%C3%A9moratif_au_roi_Dinh_Tien_Hoang_%28Hoa_Lu%29.jpg/330px-Temple_comm%C3%A9moratif_au_roi_Dinh_Tien_Hoang_%28Hoa_Lu%29.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ninh_B%C3%ACnh",
+    seoTitle: "Ninh Bình | Vietnam Explorer",
+    seoDescription:
+      "Ninh Bình là một tỉnh thuộc vùng Đồng bằng sông Hồng, miền Bắc Việt Nam, nằm ở cửa ngõ phía nam của thủ đô Hà Nội. Đây là mảnh đất giàu tiềm năng phát triển ...",
+    keywords: [
+      "Ninh Bình",
+      "Ninh Bình du lịch",
+      "Ninh Bình Việt Nam",
+      "Ninh Bình tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ninh-thuan",
+    slug: "ninh-thuan",
+    name: "Ninh Thuận",
+    kind: "province",
+    wikipediaTitle: "Ninh_Thuận",
+    description:
+      "Ninh Thuận là một tỉnh ven biển cũ thuộc vùng Duyên hải Nam Trung Bộ, miền Trung, Việt Nam, tồn tại trong ba giai đoạn: Từ ngày 20 tháng 5 năm 1901 đến ngày 7 tháng 3 năm 1913, từ ngày 5 tháng 7 năm 1922 đến ngày 24 tháng 2 năm 1976 và từ ngày 26 tháng 12 năm 1991 đến ngày 1 tháng 7 năm 2025.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Po_Klong_Garai.jpg/330px-Po_Klong_Garai.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ninh_Thu%E1%BA%ADn",
+    seoTitle: "Ninh Thuận | Vietnam Explorer",
+    seoDescription:
+      "Ninh Thuận là một tỉnh ven biển cũ thuộc vùng Duyên hải Nam Trung Bộ, miền Trung, Việt Nam, tồn tại trong ba giai đoạn: Từ ngày 20 tháng 5 năm 1901 đến ngày ...",
+    keywords: [
+      "Ninh Thuận",
+      "Ninh Thuận du lịch",
+      "Ninh Thuận Việt Nam",
+      "Ninh Thuận tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "phu-tho",
+    slug: "phu-tho",
+    name: "Phú Thọ",
+    kind: "province",
+    wikipediaTitle: "Phú_Thọ",
+    description:
+      "Phú Thọ là một tỉnh thuộc vùng Đông Bắc Bộ, Việt Nam, tỉnh này là khu vực chuyển tiếp giữa vùng Đồng bằng sông Hồng và Trung du và miền núi phía Bắc. Phú Thọ được coi là vùng Đất Tổ cội nguồn của dân tộc Việt Nam. Tương truyền tại nơi đây, các vua Hùng đã dựng nước nên nước Văn Lang - nhà nước đầu tiên của Việt Nam, với kinh đô là Phong Châu.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%90%E1%BB%81n_H%C3%B9ng_-_panoramio.jpg/330px-%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%90%E1%BB%81n_H%C3%B9ng_-_panoramio.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D",
+    seoTitle: "Phú Thọ | Vietnam Explorer",
+    seoDescription:
+      "Phú Thọ là một tỉnh thuộc vùng Đông Bắc Bộ, Việt Nam, tỉnh này là khu vực chuyển tiếp giữa vùng Đồng bằng sông Hồng và Trung du và miền núi phía Bắc. Phú Thọ...",
+    keywords: [
+      "Phú Thọ",
+      "Phú Thọ du lịch",
+      "Phú Thọ Việt Nam",
+      "Phú Thọ tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "phu-yen",
+    slug: "phu-yen",
+    name: "Phú Yên",
+    kind: "province",
+    wikipediaTitle: "Phú_Yên",
+    description:
+      "Phú Yên có thể là một trong số các địa danh Việt Nam sau đây:Phường Phú Yên, tỉnh Đắk LắkĐịa danh cũTỉnh Phú Yên\nXã Phú Yên, huyện Phú Xuyên, thành phố Hà Nội\nXã cũ Phú Yên thuộc huyện Thọ Xuân, tỉnh Thanh Hóa; nay là một phần xã Phú Xuân cùng huyện",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Ph%C3%BA_Y%C3%AAn_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Phú Yên | Vietnam Explorer",
+    seoDescription:
+      "Phú Yên có thể là một trong số các địa danh Việt Nam sau đây:Phường Phú Yên, tỉnh Đắk LắkĐịa danh cũTỉnh Phú Yên\nXã Phú Yên, huyện Phú Xuyên, thành phố Hà Nộ...",
+    keywords: [
+      "Phú Yên",
+      "Phú Yên du lịch",
+      "Phú Yên Việt Nam",
+      "Phú Yên tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "quang-binh",
+    slug: "quang-binh",
+    name: "Quảng Bình",
+    kind: "province",
+    wikipediaTitle: "Quảng_Bình",
+    description: "Quảng Bình có thể là:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_B%C3%ACnh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Quảng Bình | Vietnam Explorer",
+    seoDescription: "Quảng Bình có thể là:",
+    keywords: [
+      "Quảng Bình",
+      "Quảng Bình du lịch",
+      "Quảng Bình Việt Nam",
+      "Quảng Bình tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "quang-nam",
+    slug: "quang-nam",
+    name: "Quảng Nam",
+    kind: "province",
+    wikipediaTitle: "Quảng_Nam",
+    description:
+      "Quảng Nam là một tỉnh ven biển cũ nằm ở cực Bắc vùng Duyên hải Nam Trung Bộ, miền Trung Việt Nam, tồn tại trong hai giai đoạn: Từ năm 1831 đến ngày 24 tháng 2 năm 1976 và từ ngày 6 tháng 11 năm 1996 đến ngày 1 tháng 7 năm 2025.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoi_An_%2842681823051%29.jpg/330px-Hoi_An_%2842681823051%29.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Nam",
+    seoTitle: "Quảng Nam | Vietnam Explorer",
+    seoDescription:
+      "Quảng Nam là một tỉnh ven biển cũ nằm ở cực Bắc vùng Duyên hải Nam Trung Bộ, miền Trung Việt Nam, tồn tại trong hai giai đoạn: Từ năm 1831 đến ngày 24 tháng ...",
+    keywords: [
+      "Quảng Nam",
+      "Quảng Nam du lịch",
+      "Quảng Nam Việt Nam",
+      "Quảng Nam tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "quang-ngai",
+    slug: "quang-ngai",
+    name: "Quảng Ngãi",
+    kind: "province",
+    wikipediaTitle: "Quảng_Ngãi",
+    description:
+      "Quảng Ngãi là một tỉnh ven biển và miền núi nằm ở phía bắc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, miền Trung Việt Nam. Trung tâm hành chính của tỉnh là phường Cẩm Thành, cách Thành phố Hồ Chí Minh 820 km về phía bắc, cách thành phố Đà Nẵng 130 km về phía nam và cách Thủ đô Hà Nội 908 km về phía nam tính theo đường Quốc lộ 1.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/DUNG_QUAT_REFINERY_-_panoramio.jpg/330px-DUNG_QUAT_REFINERY_-_panoramio.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i",
+    seoTitle: "Quảng Ngãi | Vietnam Explorer",
+    seoDescription:
+      "Quảng Ngãi là một tỉnh ven biển và miền núi nằm ở phía bắc vùng Duyên hải Nam Trung Bộ và Tây Nguyên, miền Trung Việt Nam. Trung tâm hành chính của tỉnh là p...",
+    keywords: [
+      "Quảng Ngãi",
+      "Quảng Ngãi du lịch",
+      "Quảng Ngãi Việt Nam",
+      "Quảng Ngãi tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "quang-ninh",
+    slug: "quang-ninh",
+    name: "Quảng Ninh",
+    kind: "province",
+    wikipediaTitle: "Quảng_Ninh",
+    description:
+      "Quảng Ninh là một tỉnh ven biển thuộc vùng Đồng bằng sông Hồng, Việt Nam. Theo quy hoạch phát triển kinh tế, Quảng Ninh vừa thuộc vùng kinh tế trọng điểm phía bắc, và vừa thuộc Vùng duyên hải Bắc Bộ. Đây là tỉnh khai thác than đá chính của Việt Nam, có vịnh Hạ Long là di sản, kỳ quan thiên nhiên thế giới. Quảng Ninh đã được Chính phủ Việt Nam quy hoạch thành thành phố trực thuộc trung ương.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%2831520203451%29.jpg/330px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%2831520203451%29.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ninh",
+    seoTitle: "Quảng Ninh | Vietnam Explorer",
+    seoDescription:
+      "Quảng Ninh là một tỉnh ven biển thuộc vùng Đồng bằng sông Hồng, Việt Nam. Theo quy hoạch phát triển kinh tế, Quảng Ninh vừa thuộc vùng kinh tế trọng điểm phí...",
+    keywords: [
+      "Quảng Ninh",
+      "Quảng Ninh du lịch",
+      "Quảng Ninh Việt Nam",
+      "Quảng Ninh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "quang-tri",
+    slug: "quang-tri",
+    name: "Quảng Trị",
+    kind: "province",
+    wikipediaTitle: "Quảng_Trị",
+    description:
+      "Quảng Trị là một tỉnh ven biển gần cực nam thuộc vùng Bắc Trung Bộ, miền Trung của Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B_Foto.jpg/330px-Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B_Foto.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Tr%E1%BB%8B",
+    seoTitle: "Quảng Trị | Vietnam Explorer",
+    seoDescription:
+      "Quảng Trị là một tỉnh ven biển gần cực nam thuộc vùng Bắc Trung Bộ, miền Trung của Việt Nam.",
+    keywords: [
+      "Quảng Trị",
+      "Quảng Trị du lịch",
+      "Quảng Trị Việt Nam",
+      "Quảng Trị tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "soc-trang",
+    slug: "soc-trang",
+    name: "Sóc Trăng",
+    kind: "province",
+    wikipediaTitle: "Sóc_Trăng",
+    description:
+      "Sóc Trăng có thể chỉ đến:Phường Sóc Trăng, thành phố Cần Thơ.Địa danh cũTỉnh Sóc Trăng; nay là một phần của thành phố Cần Thơ\nThành phố Sóc Trăng thuộc tỉnh Sóc Trăng cũ; nay là các phường Sóc Trăng, Phú Lợi và một phần của phường Mỹ Xuyên thuộc thành phố Cần Thơ.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/S%C3%B3c_Tr%C4%83ng_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Sóc Trăng | Vietnam Explorer",
+    seoDescription:
+      "Sóc Trăng có thể chỉ đến:Phường Sóc Trăng, thành phố Cần Thơ.Địa danh cũTỉnh Sóc Trăng; nay là một phần của thành phố Cần Thơ\nThành phố Sóc Trăng thuộc tỉnh ...",
+    keywords: [
+      "Sóc Trăng",
+      "Sóc Trăng du lịch",
+      "Sóc Trăng Việt Nam",
+      "Sóc Trăng tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "son-la",
+    slug: "son-la",
+    name: "Sơn La",
+    kind: "province",
+    wikipediaTitle: "Sơn_La",
+    description: "Sơn La là một tỉnh thuộc vùng Tây Bắc Bộ, miền Bắc Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/S%E1%BB%91ng_l%C6%B0ng_kh%E1%BB%A7ng_long_T%C3%A0_X%C3%B9a.jpg/330px-S%E1%BB%91ng_l%C6%B0ng_kh%E1%BB%A7ng_long_T%C3%A0_X%C3%B9a.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/S%C6%A1n_La",
+    seoTitle: "Sơn La | Vietnam Explorer",
+    seoDescription:
+      "Sơn La là một tỉnh thuộc vùng Tây Bắc Bộ, miền Bắc Việt Nam.",
+    keywords: ["Sơn La", "Sơn La du lịch", "Sơn La Việt Nam", "Sơn La tỉnh"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "tay-ninh",
+    slug: "tay-ninh",
+    name: "Tây Ninh",
+    kind: "province",
+    wikipediaTitle: "Tây_Ninh",
+    description:
+      "Tây Ninh là một tỉnh thuộc vùng Đông Nam Bộ, miền Nam, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ho_dau_tieng.jpg/330px-Ho_dau_tieng.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/T%C3%A2y_Ninh",
+    seoTitle: "Tây Ninh | Vietnam Explorer",
+    seoDescription:
+      "Tây Ninh là một tỉnh thuộc vùng Đông Nam Bộ, miền Nam, Việt Nam.",
+    keywords: [
+      "Tây Ninh",
+      "Tây Ninh du lịch",
+      "Tây Ninh Việt Nam",
+      "Tây Ninh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "thai-binh",
+    slug: "thai-binh",
+    name: "Thái Bình",
+    kind: "province",
+    wikipediaTitle: "Thái_Bình",
+    description: "Thái Bình hay Thái bình trong tiếng Việt có thể chỉ:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Th%C3%A1i_B%C3%ACnh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Thái Bình | Vietnam Explorer",
+    seoDescription: "Thái Bình hay Thái bình trong tiếng Việt có thể chỉ:",
+    keywords: [
+      "Thái Bình",
+      "Thái Bình du lịch",
+      "Thái Bình Việt Nam",
+      "Thái Bình tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "thai-nguyen",
+    slug: "thai-nguyen",
+    name: "Thái Nguyên",
+    kind: "province",
+    wikipediaTitle: "Thái_Nguyên",
+    description:
+      "Thái Nguyên là một tỉnh miền núi và trung du thuộc vùng Đông Bắc Bộ, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TN_VNG_QT.jpg/330px-TN_VNG_QT.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Th%C3%A1i_Nguy%C3%AAn",
+    seoTitle: "Thái Nguyên | Vietnam Explorer",
+    seoDescription:
+      "Thái Nguyên là một tỉnh miền núi và trung du thuộc vùng Đông Bắc Bộ, Việt Nam.",
+    keywords: [
+      "Thái Nguyên",
+      "Thái Nguyên du lịch",
+      "Thái Nguyên Việt Nam",
+      "Thái Nguyên tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "thanh-hoa",
+    slug: "thanh-hoa",
+    name: "Thanh Hóa",
+    kind: "province",
+    wikipediaTitle: "Thanh_Hóa",
+    description:
+      "Thanh Hóa là một tỉnh ven biển cực bắc thuộc vùng Bắc Trung Bộ, miền Trung, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Le_Loi_statue.JPG/330px-Le_Loi_statue.JPG",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Thanh_H%C3%B3a",
+    seoTitle: "Thanh Hóa | Vietnam Explorer",
+    seoDescription:
+      "Thanh Hóa là một tỉnh ven biển cực bắc thuộc vùng Bắc Trung Bộ, miền Trung, Việt Nam.",
+    keywords: [
+      "Thanh Hóa",
+      "Thanh Hóa du lịch",
+      "Thanh Hóa Việt Nam",
+      "Thanh Hóa tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "thua-thien-hue",
+    slug: "thua-thien-hue",
+    name: "Thừa Thiên Huế",
+    kind: "province",
+    wikipediaTitle: "Thừa_Thiên_Huế",
+    description:
+      "Thừa Thiên Huế là một tỉnh ven biển cũ nằm ở cực nam thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam. Từ ngày 1 tháng 1 năm 2025, toàn bộ tỉnh trở thành thành phố Huế trực thuộc Trung ương.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hu%E1%BA%BF_%282024%29_-_Mausoleum_of_Emperor_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh_-_exterior_-_img_09.jpg/330px-Hu%E1%BA%BF_%282024%29_-_Mausoleum_of_Emperor_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh_-_exterior_-_img_09.jpg",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Th%E1%BB%ABa_Thi%C3%AAn_Hu%E1%BA%BF",
+    seoTitle: "Thừa Thiên Huế | Vietnam Explorer",
+    seoDescription:
+      "Thừa Thiên Huế là một tỉnh ven biển cũ nằm ở cực nam thuộc vùng Bắc Trung Bộ, miền Trung Việt Nam. Từ ngày 1 tháng 1 năm 2025, toàn bộ tỉnh trở thành thành p...",
+    keywords: [
+      "Thừa Thiên Huế",
+      "Thừa Thiên Huế du lịch",
+      "Thừa Thiên Huế Việt Nam",
+      "Thừa Thiên Huế tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "tien-giang",
+    slug: "tien-giang",
+    name: "Tiền Giang",
+    kind: "province",
+    wikipediaTitle: "Tiền_Giang",
+    description:
+      "Tiền Giang là một tỉnh ven biển cũ thuộc vùng Đồng bằng sông Cửu Long, miền Nam Việt Nam, tồn tại từ ngày 24 tháng 2 năm 1976 đến ngày 1 tháng 7 năm 2025. Tỉnh nằm trong Vùng kinh tế trọng điểm phía Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cangmytho.jpg/330px-Cangmytho.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_Giang",
+    seoTitle: "Tiền Giang | Vietnam Explorer",
+    seoDescription:
+      "Tiền Giang là một tỉnh ven biển cũ thuộc vùng Đồng bằng sông Cửu Long, miền Nam Việt Nam, tồn tại từ ngày 24 tháng 2 năm 1976 đến ngày 1 tháng 7 năm 2025. Tỉ...",
+    keywords: [
+      "Tiền Giang",
+      "Tiền Giang du lịch",
+      "Tiền Giang Việt Nam",
+      "Tiền Giang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "tra-vinh",
+    slug: "tra-vinh",
+    name: "Trà Vinh",
+    kind: "province",
+    wikipediaTitle: "Trà_Vinh",
+    description:
+      "Trà Vinh có thể là:Phường Trà Vinh, tỉnh Vĩnh LongĐịa danh cũTỉnh Trà Vinh; nay là một phần của tỉnh Vĩnh Long\nThành phố Trà Vinh, tỉnh lỵ tỉnh Trà Vinh\nXã Trà Vinh, huyện Nam Trà My, tỉnh Quảng Nam.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Tr%C3%A0_Vinh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Trà Vinh | Vietnam Explorer",
+    seoDescription:
+      "Trà Vinh có thể là:Phường Trà Vinh, tỉnh Vĩnh LongĐịa danh cũTỉnh Trà Vinh; nay là một phần của tỉnh Vĩnh Long\nThành phố Trà Vinh, tỉnh lỵ tỉnh Trà Vinh\nXã T...",
+    keywords: [
+      "Trà Vinh",
+      "Trà Vinh du lịch",
+      "Trà Vinh Việt Nam",
+      "Trà Vinh tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "tuyen-quang",
+    slug: "tuyen-quang",
+    name: "Tuyên Quang",
+    kind: "province",
+    wikipediaTitle: "Tuyên_Quang",
+    description:
+      "Tuyên Quang là một tỉnh miền núi và trung du nằm ở cực bắc thuộc vùng Đông Bắc Bộ, miền Bắc Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/C%E1%BB%99t_C%E1%BB%9D.jpg/330px-C%E1%BB%99t_C%E1%BB%9D.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_Quang",
+    seoTitle: "Tuyên Quang | Vietnam Explorer",
+    seoDescription:
+      "Tuyên Quang là một tỉnh miền núi và trung du nằm ở cực bắc thuộc vùng Đông Bắc Bộ, miền Bắc Việt Nam.",
+    keywords: [
+      "Tuyên Quang",
+      "Tuyên Quang du lịch",
+      "Tuyên Quang Việt Nam",
+      "Tuyên Quang tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "vinh-long",
+    slug: "vinh-long",
+    name: "Vĩnh Long",
+    kind: "province",
+    wikipediaTitle: "Vĩnh_Long",
+    description:
+      "Vĩnh Long là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, miền Nam, Việt Nam. Theo dữ liệu Sáp nhập tỉnh, thành Việt Nam 2025, Vĩnh Long có diện tích: 6.296 km², xếp thứ 25; dân số: 4.257.581 người, xếp thứ 9; GRDP 2024: 254.479.941 triệu VNĐ, xếp thứ 17; thu ngân sách 2024: 21.789.629 triệu VNĐ, xếp thứ 20; thu nhập bình quân: 50,75 triệu VNĐ/năm, xếp thứ 22.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Trung_t%C3%A2m_H%C3%A0nh_ch%C3%ADnh_t%E1%BB%89nh_V%C4%A9nh_Long.jpg/330px-Trung_t%C3%A2m_H%C3%A0nh_ch%C3%ADnh_t%E1%BB%89nh_V%C4%A9nh_Long.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/V%C4%A9nh_Long",
+    seoTitle: "Vĩnh Long | Vietnam Explorer",
+    seoDescription:
+      "Vĩnh Long là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, miền Nam, Việt Nam. Theo dữ liệu Sáp nhập tỉnh, thành Việt Nam 2025, Vĩnh Long có diện tích: 6.296 ...",
+    keywords: [
+      "Vĩnh Long",
+      "Vĩnh Long du lịch",
+      "Vĩnh Long Việt Nam",
+      "Vĩnh Long tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "vinh-phuc",
+    slug: "vinh-phuc",
+    name: "Vĩnh Phúc",
+    kind: "province",
+    wikipediaTitle: "Vĩnh_Phúc",
+    description: "Vĩnh Phúc có thể là:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Vĩnh Phúc | Vietnam Explorer",
+    seoDescription: "Vĩnh Phúc có thể là:",
+    keywords: [
+      "Vĩnh Phúc",
+      "Vĩnh Phúc du lịch",
+      "Vĩnh Phúc Việt Nam",
+      "Vĩnh Phúc tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "yen-bai",
+    slug: "yen-bai",
+    name: "Yên Bái",
+    kind: "province",
+    wikipediaTitle: "Yên_Bái",
+    description:
+      "Yên Bái có thể là một trong số các địa danh Việt Nam sau đây:Phường Yên Bái, tỉnh Lào Cai\nCầu Yên Bái nối phường Âu Lâu và phường Yên Bái, tỉnh Lào Cai.Địa danh cũTỉnh Yên Bái, nay là một phần của tỉnh Lào Cai\nThành phố Yên Bái, tỉnh lỵ tỉnh Yên Bái\nXã Yên Bái ; nay là một phần xã Yên Trường.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Y%C3%AAn_B%C3%A1i_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Yên Bái | Vietnam Explorer",
+    seoDescription:
+      "Yên Bái có thể là một trong số các địa danh Việt Nam sau đây:Phường Yên Bái, tỉnh Lào Cai\nCầu Yên Bái nối phường Âu Lâu và phường Yên Bái, tỉnh Lào Cai.Địa d...",
+    keywords: [
+      "Yên Bái",
+      "Yên Bái du lịch",
+      "Yên Bái Việt Nam",
+      "Yên Bái tỉnh",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "phu-quoc",
+    slug: "phu-quoc",
+    name: "Phú Quốc",
+    kind: "island",
+    wikipediaTitle: "Phú_Quốc",
+    description: "Phú Quốc là một đặc khu thuộc tỉnh An Giang, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Phu_Quoc%2C_Viet_Nam.jpg/330px-Phu_Quoc%2C_Viet_Nam.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c",
+    seoTitle: "Phú Quốc | Vietnam Explorer",
+    seoDescription: "Phú Quốc là một đặc khu thuộc tỉnh An Giang, Việt Nam.",
+    keywords: [
+      "Phú Quốc",
+      "Phú Quốc du lịch",
+      "Phú Quốc Việt Nam",
+      "Phú Quốc đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "con-ao",
+    slug: "con-ao",
+    name: "Côn Đảo",
+    kind: "island",
+    wikipediaTitle: "Côn_Đảo",
+    description:
+      "Côn Đảo là một đặc khu thuộc Thành phố Hồ Chí Minh, Việt Nam. Đây vốn là một quần đảo nằm ở ngoài khơi bờ biển Nam Bộ, cách phường Vũng Tàu 97 hải lý theo đường biển. Nơi gần Côn Đảo nhất trên đất liền là xã Vĩnh Hải, thành phố Cần Thơ là 40 hải lý. Côn Đảo từng được biết đến là nơi giam giữ và lưu đày tù nhân lớn nhất Đông Dương trước năm 1975. Ngày nay, Côn Đảo là điểm du lịch nghỉ dưỡng và tham quan với các bãi tắm và khu bảo tồn thiên nhiên Vườn quốc gia Côn Đảo.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/C%C3%B4n_%C4%90%E1%BA%A3o%2C_B%C3%A0_R%E1%BB%8Ba_-_V%C5%A9ng_T%C3%A0u%2C_Vietnam_-_panoramio_%2833%29.jpg/330px-C%C3%B4n_%C4%90%E1%BA%A3o%2C_B%C3%A0_R%E1%BB%8Ba_-_V%C5%A9ng_T%C3%A0u%2C_Vietnam_-_panoramio_%2833%29.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/C%C3%B4n_%C4%90%E1%BA%A3o",
+    seoTitle: "Côn Đảo | Vietnam Explorer",
+    seoDescription:
+      "Côn Đảo là một đặc khu thuộc Thành phố Hồ Chí Minh, Việt Nam. Đây vốn là một quần đảo nằm ở ngoài khơi bờ biển Nam Bộ, cách phường Vũng Tàu 97 hải lý theo đư...",
+    keywords: ["Côn Đảo", "Côn Đảo du lịch", "Côn Đảo Việt Nam", "Côn Đảo đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "ly-son",
+    slug: "ly-son",
+    name: "Lý Sơn",
+    kind: "island",
+    wikipediaTitle: "Lý_Sơn",
+    description: "Lý Sơn là một đặc khu thuộc tỉnh Quảng Ngãi, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/C%E1%BB%95ng_ch%C3%A0o_tr%C3%AAn_Huy%E1%BB%87n_%C4%90%E1%BA%A3o_L%C3%BD_S%C6%A1n_-_Qu%E1%BA%A3ng_Ng%C3%A3i.jpg/330px-C%E1%BB%95ng_ch%C3%A0o_tr%C3%AAn_Huy%E1%BB%87n_%C4%90%E1%BA%A3o_L%C3%BD_S%C6%A1n_-_Qu%E1%BA%A3ng_Ng%C3%A3i.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/L%C3%BD_S%C6%A1n",
+    seoTitle: "Lý Sơn | Vietnam Explorer",
+    seoDescription: "Lý Sơn là một đặc khu thuộc tỉnh Quảng Ngãi, Việt Nam.",
+    keywords: ["Lý Sơn", "Lý Sơn du lịch", "Lý Sơn Việt Nam", "Lý Sơn đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "cat-ba",
+    slug: "cat-ba",
+    name: "Cát Bà",
+    kind: "island",
+    wikipediaTitle: "Cát_Bà",
+    description:
+      "Cát Bà có thể chỉ đến:Quần đảo Cát Bà: một quần đảo nằm trong vịnh Bắc Bộ\nĐảo Cát Bà: hòn đảo lớn nhất trong quần đảo Cát Bà\nVườn quốc gia Cát Bà: vườn quốc gia nằm trên đảo Cát BàĐịa danh cũHuyện Cát Bà thuộc thành phố Hải Phòng, có địa giới hành chính bao gồm toàn bộ quần đảo Cát Bà; nay là một phần của đặc khu Cát Hải.\nThị trấn Cát Bà thị trấn nằm trên đảo Cát Bà và là huyện lỵ huyện Cát Hải, thành phố Hải Phòng; nay là một phần của đặc khu Cát Hải.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/C%C3%A1t_B%C3%A0_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Cát Bà | Vietnam Explorer",
+    seoDescription:
+      "Cát Bà có thể chỉ đến:Quần đảo Cát Bà: một quần đảo nằm trong vịnh Bắc Bộ\nĐảo Cát Bà: hòn đảo lớn nhất trong quần đảo Cát Bà\nVườn quốc gia Cát Bà: vườn quốc ...",
+    keywords: ["Cát Bà", "Cát Bà du lịch", "Cát Bà Việt Nam", "Cát Bà đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "cu-lao-cham",
+    slug: "cu-lao-cham",
+    name: "Cù Lao Chàm",
+    kind: "island",
+    wikipediaTitle: "Cù_Lao_Chàm",
+    description:
+      "Cù lao Chàm là một cụm đảo thuộc xã đảo Tân Hiệp, thành phố Đà Nẵng, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%C4%90%E1%BA%A3o_C%C3%B9_Lao_Ch%C3%A0m_g%C3%B3c_nh%C3%ACn_t%E1%BB%AB_Cano.jpg/330px-%C4%90%E1%BA%A3o_C%C3%B9_Lao_Ch%C3%A0m_g%C3%B3c_nh%C3%ACn_t%E1%BB%AB_Cano.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/C%C3%B9_lao_Ch%C3%A0m",
+    seoTitle: "Cù Lao Chàm | Vietnam Explorer",
+    seoDescription:
+      "Cù lao Chàm là một cụm đảo thuộc xã đảo Tân Hiệp, thành phố Đà Nẵng, Việt Nam.",
+    keywords: [
+      "Cù Lao Chàm",
+      "Cù Lao Chàm du lịch",
+      "Cù Lao Chàm Việt Nam",
+      "Cù Lao Chàm đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-ba",
+    slug: "binh-ba",
+    name: "Bình Ba",
+    kind: "island",
+    wikipediaTitle: "Bình_Ba",
+    description:
+      "Bình Ba là một đảo nhỏ diện tích trên 3 km², năm trong địa phận thuộc xã Nam Cam Ranh, tỉnh Khánh Hòa, Việt Nam. Đảo nằm trong vịnh Cam Ranh, cách phường Nha Trang khoảng 60 km về phía nam, cách cảng Ba Ngòi 15 km về phía đông.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/B%C3%ACnh_Ba_Island.jpg/330px-B%C3%ACnh_Ba_Island.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_B%C3%ACnh_Ba",
+    seoTitle: "Bình Ba | Vietnam Explorer",
+    seoDescription:
+      "Bình Ba là một đảo nhỏ diện tích trên 3 km², năm trong địa phận thuộc xã Nam Cam Ranh, tỉnh Khánh Hòa, Việt Nam. Đảo nằm trong vịnh Cam Ranh, cách phường Nha...",
+    keywords: ["Bình Ba", "Bình Ba du lịch", "Bình Ba Việt Nam", "Bình Ba đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "binh-hung",
+    slug: "binh-hung",
+    name: "Bình Hưng",
+    kind: "island",
+    wikipediaTitle: "Bình_Hưng",
+    description: "Bình Hưng là một xã thuộc Thành phố Hồ Chí Minh, Việt Nam.",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C%E1%BA%A7u_Hi%E1%BB%87p_An%2C_Nguyen_Van_linh%2CB%C3%ACnh_H%C6%B0ng%2C_B%C3%ACnh_Ch%C3%A1nh%2C_TPHCM%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg/330px-C%E1%BA%A7u_Hi%E1%BB%87p_An%2C_Nguyen_Van_linh%2CB%C3%ACnh_H%C6%B0ng%2C_B%C3%ACnh_Ch%C3%A1nh%2C_TPHCM%2C_Vi%E1%BB%87t_Nam_-_panoramio.jpg",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/B%C3%ACnh_H%C6%B0ng",
+    seoTitle: "Bình Hưng | Vietnam Explorer",
+    seoDescription:
+      "Bình Hưng là một xã thuộc Thành phố Hồ Chí Minh, Việt Nam.",
+    keywords: [
+      "Bình Hưng",
+      "Bình Hưng du lịch",
+      "Bình Hưng Việt Nam",
+      "Bình Hưng đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "nam-du",
+    slug: "nam-du",
+    name: "Nam Du",
+    kind: "island",
+    wikipediaTitle: "Nam_Du",
+    description:
+      "Nam Du có thể là:Quần đảo Nam Du: một quần đảo nằm trong vịnh Thái Lan\nĐảo Nam Du, còn được gọi là Hòn Củ Tron hay Hòn Lớn: hòn đảo lớn nhất trong quần đảo Nam DuĐịa danh cũXã đảo Nam Du ; nay là một phần đặc khu Kiên Hải tỉnh An Giang.",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Nam_Du_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Nam Du | Vietnam Explorer",
+    seoDescription:
+      "Nam Du có thể là:Quần đảo Nam Du: một quần đảo nằm trong vịnh Thái Lan\nĐảo Nam Du, còn được gọi là Hòn Củ Tron hay Hòn Lớn: hòn đảo lớn nhất trong quần đảo N...",
+    keywords: ["Nam Du", "Nam Du du lịch", "Nam Du Việt Nam", "Nam Du đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hon-son",
+    slug: "hon-son",
+    name: "Hòn Sơn",
+    kind: "island",
+    wikipediaTitle: "Hòn_Sơn",
+    description:
+      "Hòn Sơn là một hòn đảo thuộc đặc khu Kiên Hải, An Giang, Việt Nam. Đảo cách thành phố Rạch Giá khoảng 65km về phía Tây theo đường chim bay, với diện tích 11,5 km2.",
+    image: "",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/H%C3%B2n_S%C6%A1n",
+    seoTitle: "Hòn Sơn | Vietnam Explorer",
+    seoDescription:
+      "Hòn Sơn là một hòn đảo thuộc đặc khu Kiên Hải, An Giang, Việt Nam. Đảo cách thành phố Rạch Giá khoảng 65km về phía Tây theo đường chim bay, với diện tích 11,...",
+    keywords: ["Hòn Sơn", "Hòn Sơn du lịch", "Hòn Sơn Việt Nam", "Hòn Sơn đảo"],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "iep-son",
+    slug: "iep-son",
+    name: "Điệp Sơn",
+    kind: "island",
+    wikipediaTitle: "Điệp_Sơn",
+    description:
+      "Điệp Sơn là tên một ngọn núi đá thấp nằm giữa đồng bằng sông Hồng, thuộc xã Yên Nam, thị xã Duy Tiên, tỉnh Hà Nam, Việt Nam.",
+    image: "",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87p_S%C6%A1n",
+    seoTitle: "Điệp Sơn | Vietnam Explorer",
+    seoDescription:
+      "Điệp Sơn là tên một ngọn núi đá thấp nằm giữa đồng bằng sông Hồng, thuộc xã Yên Nam, thị xã Duy Tiên, tỉnh Hà Nam, Việt Nam.",
+    keywords: [
+      "Điệp Sơn",
+      "Điệp Sơn du lịch",
+      "Điệp Sơn Việt Nam",
+      "Điệp Sơn đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "hoang-sa",
+    slug: "hoang-sa",
+    name: "Hoàng Sa",
+    kind: "archipelago",
+    wikipediaTitle: "Hoàng_Sa",
+    description:
+      "\nHoàng Sa có thể chỉ:Đặc khu Hoàng Sa, thành phố Đà Nẵng\nQuần đảo Hoàng Sa: quần đảo trong Biển Đông, theo cách gọi của Việt Nam \nĐảo Hoàng Sa: một hòn đảo thuộc quần đảo Hoàng Sa\nHải đội Hoàng Sa: một nhóm người phụ trách việc cai quản và khai thác sản vật quần đảo Hoàng Sa từ thời Chúa Nguyễn, Việt Nam\nHoàng Sa Tự: tên gọi cho ngôi miếu cổ trước đây trên đảo Phú Lâm và một số đảo thuộc quần đảo Hoàng Sa, ngày nay các miếu không còn.Địa danh cũHuyện đảo Hoàng Sa, thành phố Đà Nẵng; nay là đặc khu Hoàng Sa, thành phố Đà Nẵng.",
+    image: "",
+    wikipediaUrl: "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Sa",
+    seoTitle: "Hoàng Sa | Vietnam Explorer",
+    seoDescription:
+      "Hoàng Sa có thể chỉ:Đặc khu Hoàng Sa, thành phố Đà Nẵng\nQuần đảo Hoàng Sa: quần đảo trong Biển Đông, theo cách gọi của Việt Nam \nĐảo Hoàng Sa: một hòn đảo th...",
+    keywords: [
+      "Hoàng Sa",
+      "Hoàng Sa du lịch",
+      "Hoàng Sa Việt Nam",
+      "Hoàng Sa quần đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+  {
+    id: "truong-sa",
+    slug: "truong-sa",
+    name: "Trường Sa",
+    kind: "archipelago",
+    wikipediaTitle: "Trường_Sa",
+    description: "Trường Sa có thể là:",
+    image: "",
+    wikipediaUrl:
+      "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Sa_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)",
+    seoTitle: "Trường Sa | Vietnam Explorer",
+    seoDescription: "Trường Sa có thể là:",
+    keywords: [
+      "Trường Sa",
+      "Trường Sa du lịch",
+      "Trường Sa Việt Nam",
+      "Trường Sa quần đảo",
+    ],
+    featured: false,
+    source: "wikipedia",
+  },
+];
